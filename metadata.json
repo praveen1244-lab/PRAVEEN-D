@@ -1,0 +1,6 @@
+{
+  "name": "Maps",
+  "description": "Interactive map application with real-time place search, directions, travel modes, saved locations, and layer views.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
